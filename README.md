@@ -1,3 +1,8 @@
+# Instructions to Run
+1. Download repo and cd into directory
+2. download the necessary packages
+3. run the notebooks
+
 # Download necessary packages
 `pip install -r requirements.txt`
 
