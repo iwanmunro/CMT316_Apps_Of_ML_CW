@@ -1,5 +1,5 @@
 # Instructions to Run
-1. Download repo and cd into directory
+1. Download repo, unzip it and cd into directory
 2. download the necessary packages
 3. run the notebooks
 
