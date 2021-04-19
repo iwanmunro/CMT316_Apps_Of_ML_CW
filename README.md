@@ -5,6 +5,7 @@
 
 # Download necessary packages
 `pip install -r requirements.txt`
+side note: originally had versions for all packages but ran into some issues so removed version numbers.
 
 # Running notebooks
  `jupyter notebook coursework_part_1.ipynb`
